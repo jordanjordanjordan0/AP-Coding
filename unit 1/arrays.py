@@ -9,3 +9,16 @@ def numberThing(numberList, value):
         print(x)
 
 numberThing(numberList, Value)
+
+
+
+
+
+
+
+
+unorderList= [ 23, 600, 4,91, 22, 49]
+
+unorderList.sort(reverse= True)
+
+
