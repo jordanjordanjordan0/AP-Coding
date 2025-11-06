@@ -3,7 +3,7 @@ import nfl_data_py as  nfl
 from helperFunctions import weeklyPlayerStats
 
 
-playerStats = weeklyPlayerStats(2024,'WR') 
+playerStats = weeklyPlayerStats(2024,'QB'') 
 print(playerStats)
 
 
