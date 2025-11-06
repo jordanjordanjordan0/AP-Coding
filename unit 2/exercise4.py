@@ -18,4 +18,4 @@ plot_weekly_player_stats(2024, "WR", stat="receiving_yards", top_n=15, week=[1,2
 # 3 - In 2024 Jared Goff had the most passing yard with 4942 yards
 
 
-# 4 - 
+# 4 - The player with the most in week 1 was Joe mixon and in week 17 it was saquon barkley
