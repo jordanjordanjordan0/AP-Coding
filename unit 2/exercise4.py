@@ -1,7 +1,7 @@
 from helperFunctions import weeklyPlayerStats, plot_weekly_player_stats, plot_player_stat
 import matplotlib.pyplot as plt
 
-stats = weeklyPlayerStats(2024, "Qb")
+stats = weeklyPlayerStats(2024, "WR")
 print(stats)
 
 plot_player_stat(stats, stat="rushing_tds", top_n=10, title="WR rushing TDs (2024)", save_path="WR_rushing_tds_2024.png"  )
